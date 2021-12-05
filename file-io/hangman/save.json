@@ -1,0 +1,47 @@
+{
+  "next_index": 3,
+  "1": {
+    "@word": "impressible",
+    "@length": 11,
+    "@lives": 5,
+    "@guessed": [
+      "p",
+      "r",
+      "e",
+      "s"
+    ],
+    "@display": [
+      "_",
+      "_",
+      "p",
+      "r",
+      "e",
+      "s",
+      "s",
+      "_",
+      "_",
+      "_",
+      "e"
+    ]
+  },
+  "2": {
+    "@word": "roberto",
+    "@length": 7,
+    "@lives": 2,
+    "@guessed": [
+      "a",
+      "c",
+      "d",
+      "e"
+    ],
+    "@display": [
+      "_",
+      "_",
+      "_",
+      "e",
+      "_",
+      "_",
+      "_"
+    ]
+  }
+}
